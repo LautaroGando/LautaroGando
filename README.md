@@ -17,9 +17,9 @@ Soy Lautaro Gando, Desarrollador Web Full Stack - Especializado en Frontend, con
 
 ![Frontend](https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind%20CSS-%2320232a?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Backend](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20TypeORM-%23323330?style=for-the-badge&logo=node.js&logoColor=68A063)  
-![Database](https://img.shields.io/badge/Database-PostgreSQL-%23DB6E00?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Design](https://img.shields.io/badge/Design-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![Project Management](https://img.shields.io/badge/Project%20Management-Agile%20%7C%20Scrum-%23F2B93D?style=for-the-badge&logo=appveyor&logoColor=white)  
+![Bases de datos](https://img.shields.io/badge/Database-PostgreSQL-%23DB6E00?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Diseño](https://img.shields.io/badge/Design-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Metodologías](https://img.shields.io/badge/Project%20Management-Agile%20%7C%20Scrum-%23F2B93D?style=for-the-badge&logo=appveyor&logoColor=white)  
 
 <h2 style="border-bottom: 1px solid #ccc; padding-bottom: 5px;">Proyectos Destacados</h2>
 <table>
