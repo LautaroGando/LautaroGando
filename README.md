@@ -49,7 +49,7 @@ Rompiendo Barreras es una aplicación diseñada para transformar la experiencia 
                <br>
 <h3 align="center">E-Commerce TechZen</h3>
 <div align="center">                                       
-<a href="https://github.com/Neoagustin/Proyectos/tree/main/E-Commerce%20-%20Mercadito" target="_blank"><img src="https://github.com/user-attachments/assets/14d00b94-45f3-4d3d-89c5-f99ebf088932" width="400" alt="E-Commerce"></a>
+<a href="https://github.com/LautaroGando/TechZen/blob/main/techzen.png" target="_blank"><img src="https://github.com/LautaroGando/TechZen/blob/main/techzen.png" width="400" alt="E-Commerce"></a>
 <br>
         <p>
           <a href="https://github.com/LautaroGando/TechZen" target="_blank">
