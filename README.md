@@ -15,12 +15,12 @@ Soy Lautaro Gando, Desarrollador Web Full Stack - Especializado en Frontend, con
 
 <h2 style="border-bottom: 1px solid #ccc; padding-bottom: 5px;">Habilidades</h2>
 
-![Lenguajes](https://img.shields.io/badge/Lenguajes-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20TypeScript-%23F7DF1E?style=for-the-badge)  
-![Frameworks y Librerías](https://img.shields.io/badge/Frameworks%20y%20Librer%C3%ADas-NODE.JS%20%7C%20TAILWIND%20CSS%20%7C%20REACT%20%7C%20NEXT.JS%20%7C%20REDUX%20%7C%20EXPRESS-%23222222?style=for-the-badge)  
-![Bases de datos](https://img.shields.io/badge/Bases%20de%20datos-POSTGRESQL%20%7C%20MONGODB-%23336791?style=for-the-badge)  
-![Herramientas](https://img.shields.io/badge/herramientas-figma%20%7C%20git%20%7C%20vite.js-%23F05032?style=for-the-badge)  
-![Metodologías](https://img.shields.io/badge/Metodolog%C3%ADas-scrum-%23FF9800?style=for-the-badge)  
-![Extras](https://img.shields.io/badge/Extras-websocket%20%7C%20chart.js-%23764ABC?style=for-the-badge)
+![Lenguajes](https://img.shields.io/badge/Lenguajes-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20TypeScript-%23F7DF1E?style=for-the-badge&logo=htmx&logoColor=%23ffffff)  
+![Frameworks y Librerías](https://img.shields.io/badge/Frameworks%20y%20Librer%C3%ADas-NODE.JS%20%7C%20TAILWIND%20CSS%20%7C%20REACT%20%7C%20NEXT.JS%20%7C%20REDUX%20%7C%20EXPRESS-%23222222?style=for-the-badge&logo=Framework&logoColor=%23ffffff)  
+![Bases de datos](https://img.shields.io/badge/Bases%20de%20datos-POSTGRESQL%20%7C%20MONGODB-%23336791?style=for-the-badge&logo=databricks&logoColor=%23ffffff)  
+![Herramientas](https://img.shields.io/badge/herramientas-figma%20%7C%20git%20%7C%20vite.js-%23F05032?style=for-the-badge&logo=textpattern&logoColor=%23ffffff)  
+![Metodologías](https://img.shields.io/badge/Metodolog%C3%ADas-scrum-%23FF9800?style=for-the-badge&logo=eagle&logoColor=%23ffffff)  
+![Extras](https://img.shields.io/badge/Extras-websocket%20%7C%20chart.js-%23764ABC?style=for-the-badge&logo=files&logoColor=%23ffffff)
 
 <h2 style="border-bottom: 1px solid #ccc; padding-bottom: 5px;">Proyectos Destacados</h2>
 <table>
