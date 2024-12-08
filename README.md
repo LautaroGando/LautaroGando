@@ -29,7 +29,7 @@ Soy Lautaro Gando, Desarrollador Web Full Stack - Especializado en Frontend, con
   <h3 align="center">Plataforma de Cursos</h3>
   <div align="center">
     <a href="https://github.com/Neoagustin/Proyectos/tree/main/Plataforma%20de%20Cursos%20-%20Rompiendo%20Barreras" target="_blank">
-      <img src="https://github.com/user-attachments/assets/2f2bbd54-98f6-4b75-9e7f-723397d8672c" width="400" alt="Plataforma de Cursos">
+      <img src="https://github.com/user-attachments/assets/2f2bbd54-98f6-4b75-9e7f-723397d8672c" width="400" height="200" alt="Plataforma de Cursos">
     </a>
         <p>
           <a href="https://github.com/Neoagustin/Proyectos/tree/main/Plataforma%20de%20Cursos%20-%20Rompiendo%20Barreras" target="_blank">
@@ -50,7 +50,7 @@ Rompiendo Barreras es una aplicación diseñada para transformar la experiencia 
                <br>
 <h3 align="center">E-Commerce TechZen</h3>
 <div align="center">                                       
-<a href="https://github.com/LautaroGando/TechZen/blob/main/techzen.png" target="_blank"><img src="https://github.com/LautaroGando/TechZen/blob/main/techzen.png" width="400" alt="E-Commerce"></a>
+<a href="https://github.com/LautaroGando/TechZen/blob/main/techzen.png" target="_blank"><img src="https://github.com/LautaroGando/TechZen/blob/main/techzen.png" width="400" height="200" alt="E-Commerce"></a>
 <br>
         <p>
           <a href="https://github.com/LautaroGando/TechZen" target="_blank">
